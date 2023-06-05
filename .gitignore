@@ -2,6 +2,7 @@
 
 # mypy
 .mypy_cache/
+__pycache__
 __pycache__/*_cpython-36.pyc
 # DS Store
 .DS_Store
