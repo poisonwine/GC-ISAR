@@ -1,0 +1,22 @@
+
+
+# mypy
+.mypy_cache/
+
+# DS Store
+.DS_Store
+
+#saved_model
+*.pth
+
+*.pt
+*.pkl
+*.log
+*.png 
+data/
+
+offline_data
+offline_data.zip
+saved_models
+wandb
+
